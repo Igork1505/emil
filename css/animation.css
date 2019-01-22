@@ -1,0 +1,18 @@
+#conteiner{
+    width: 600px;
+    height: 600px;
+    background-color: #8aff00;
+    position: relative;
+    background-image: url("../img/images.png");
+    background-size: 600px;
+
+
+}
+#box1{
+    width: 250px;
+    height: 270px;
+background-color: rgba(0, 5, 255, 0);
+    position: absolute;
+background-image: url("../img/IMG_2514 (1).PNG");
+    background-size:250px 270px;
+}
